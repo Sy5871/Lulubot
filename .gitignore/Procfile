@@ -1,1 +1,2 @@
-worker: node index
+<process type> worker
+<command> jobs:work
